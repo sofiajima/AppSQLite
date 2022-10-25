@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">actividad11</string>
+    <string name="codigo">Código del producto</string>
+    <string name="precio">Precio del producto</string>
+    <string name="descripcion">Descripción del producto</string>
+    <string name="registrar">Registrar Producto</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="modificar">Modificar</string>
+</resources>
